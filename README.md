@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Farzana%20Sultana%20Prioty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=780&lines=Building+Full+Stack+Web+Applications;Exploring+Real-Time+Systems+%26+Databases;CS+Undergrad+%40+MBSTU;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
