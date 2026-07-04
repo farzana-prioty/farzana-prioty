@@ -2,12 +2,16 @@
 
 ---
 
-## 🧬 About Me
+## Prioty (spelled as pree-o-tee)
 
-I'm a Computer Science undergraduate at **Mawlana Bhashani Science and Technology University**, passionate about full stack development and building real-time, functional web applications. I enjoy working across the stack — from designing clean React front-ends to wiring up authentication and live data with Firebase and Supabase — and I care about writing software that's actually tested and reliable, not just demo-ready.
-
-**🎯 Open To:** Software Engineering Internships · Full Stack Development Projects · Open Source Collaboration · Learning Opportunities
-
+I chose CSE over butex xdd (dumb ik). I love finding bugs and mistakes just as much I love building new things.
+Factos about me:
+Learnt SQL like my life depends on it.
+Started from C, C++, now it's Python <3
+I know Bootstrap CSS, now working on Tailwind.
+Started with MERN, but now I use Supabase and Firebase a lot.
+Love React and Node.
+Started testing with Playwright, now I use JIRA for bug tracking.
 ---
 
 ## 📬 Connect With Me
