@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Farzana%20Sultana%20Prioty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-
-
 <br/>
 
 <img src="https://img.shields.io/badge/B.Sc-Computer%20Science%20%26%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
@@ -15,6 +13,11 @@
 <a href="mailto:fzprioty25@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/farzana-prioty"><img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+<br/><br/>
+
+<a href="https://leetcode.com/farzana_prioty"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Art3Mis99"><img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+
 <br/>
 </div>
 
@@ -24,47 +27,9 @@
 
 ## 🧬 About Me
 
-```yaml
-name: "Farzana Sultana Prioty"
-role: "CS Student · Full Stack Developer"
-degree: "B.Sc in Computer Science & Engineering, Mawlana Bhashani Science and Technology University"
-focus:
-  - Building real-time, full-stack web applications
-  - Working with Firebase & Supabase for backend and auth
-  - Writing clean, testable React applications
-  - Exploring E2E testing and reliable software delivery
-philosophy: "Build things that actually work — and test them like it matters."
-```
-
 I'm a Computer Science undergraduate at **Mawlana Bhashani Science and Technology University**, passionate about full stack development and building real-time, functional web applications. I enjoy working across the stack — from designing clean React front-ends to wiring up authentication and live data with Firebase and Supabase — and I care about writing software that's actually tested and reliable, not just demo-ready.
 
 **🎯 Open To:** Software Engineering Internships · Full Stack Development Projects · Open Source Collaboration · Learning Opportunities
-
-<br/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark"/>
-
-**Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-</div>
 
 <br/>
 
@@ -110,19 +75,6 @@ Uses Supabase as the backend data store paired with the Discord bot API to fetch
 
 ---
 
-## 🎓 Education
-
-### B.Sc in Computer Science & Engineering
-**Mawlana Bhashani Science and Technology University**
-
-Currently pursuing a bachelor's degree in Computer Science & Engineering, with hands-on focus on full stack web development, real-time systems, and software testing practices.
-
-`Python` `C++` `React` `Firebase` `Supabase`
-
-<br/>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -130,19 +82,6 @@ Currently pursuing a bachelor's degree in Computer Science & Engineering, with h
 | Recognition | Details |
 |---|---|
 | 🥇 National Girls Programming Contest | Finalist |
-
-</div>
-
-<br/>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/farzana_prioty"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/Art3Mis99"><img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 </div>
 
@@ -165,35 +104,11 @@ Currently pursuing a bachelor's degree in Computer Science & Engineering, with h
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=farzana-prioty&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
-<br/>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farzana-prioty&theme=react-dark&bg_color=0d1117&color=A78BFA&line=6D28D9&point=8B5CF6&hide_border=true"/>
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/farzana-prioty/farzana-prioty/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -242,8 +157,6 @@ Open To:
 ---
 
 <div align="center">
-
-*"Build things that actually work — and test them like it matters."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=20,11,6&section=footer" width="100%"/>
 
