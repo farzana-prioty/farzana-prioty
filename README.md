@@ -15,10 +15,7 @@
 <a href="mailto:fzprioty25@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/farzana-prioty"><img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
-
-
-
+<br/>
 </div>
 
 <br/>
