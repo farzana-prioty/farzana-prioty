@@ -1,9 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Farzana%20Sultana%20Prioty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
-<img src="https://img.shields.io/badge/B.Sc-Computer%20Science%20%26%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-
-</div>
 
 ---
 
