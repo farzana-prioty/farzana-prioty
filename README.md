@@ -1,18 +1,20 @@
-
-
----
-
-## Prioty (spelled as pree-o-tee)
+# Prioty (spelled as pree-o-tee)
 
 I chose CSE over butex xdd (dumb ik). I love finding bugs and mistakes just as much I love building new things.
-Factos about me:
-Learnt SQL like my life depends on it.
-Started from C, C++, now it's Python <3
-I know Bootstrap CSS, now working on Tailwind.
-Started with MERN, but now I use Supabase and Firebase a lot.
-Love React and Node.
-Started testing with Playwright, now I use JIRA for bug tracking.
+
 ---
+
+**Factos about me:**
+
+- Learnt SQL like my life depends on it.
+- Started from C, C++, now it's Python <3
+- I know Bootstrap CSS, now working on Tailwind.
+- Started with MERN, but now I use Supabase and Firebase a lot.
+- Love React and Node.
+- Started testing with Playwright, now I use JIRA for bug tracking.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzana-sultana-82619b3b4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fzprioty25@gmail.com)
 
 ## 📬 Connect With Me
 
