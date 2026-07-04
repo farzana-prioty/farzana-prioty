@@ -17,9 +17,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=farzana-prioty&style=flat-square&color=6d28d9&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/farzana-prioty?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers"/>
-<img src="https://img.shields.io/github/stars/farzana-prioty?style=flat-square&color=8b5cf6&labelColor=1a1a2e&label=Stars"/>
+
 
 </div>
 
