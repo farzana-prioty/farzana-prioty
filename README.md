@@ -1,27 +1,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,11,20&text=Farzana%20Sultana%20Prioty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/B.Sc-Computer%20Science%20%26%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍_Location-Gazipur,%20Bangladesh-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/farzana-sultana-82619b3b4"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:fzprioty25@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/farzana-prioty"><img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/farzana_prioty"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/Art3Mis99"><img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-
-<br/>
 </div>
-
-<br/>
 
 ---
 
@@ -31,7 +13,19 @@ I'm a Computer Science undergraduate at **Mawlana Bhashani Science and Technolog
 
 **🎯 Open To:** Software Engineering Internships · Full Stack Development Projects · Open Source Collaboration · Learning Opportunities
 
-<br/>
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:fzprioty25@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/farzana-sultana-82619b3b4"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/farzana-prioty"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/farzana_prioty"><img src="https://img.shields.io/badge/LeetCode-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Art3Mis99"><img src="https://img.shields.io/badge/Codeforces-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+
+</div>
 
 ---
 
@@ -71,8 +65,6 @@ Uses Supabase as the backend data store paired with the Discord bot API to fetch
 
 </details>
 
-<br/>
-
 ---
 
 ## 🏆 Achievements
@@ -84,8 +76,6 @@ Uses Supabase as the backend data store paired with the Discord bot API to fetch
 | 🥇 National Girls Programming Contest | Finalist |
 
 </div>
-
-<br/>
 
 ---
 
@@ -99,60 +89,6 @@ Uses Supabase as the backend data store paired with the Discord bot API to fetch
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzana-prioty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
 </div>
-
-<br/>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farzana-prioty&theme=react-dark&bg_color=0d1117&color=A78BFA&line=6D28D9&point=8B5CF6&hide_border=true"/>
-
-</div>
-
-<br/>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced React patterns and state management
-  - Real-time systems with Firebase and Supabase
-  - Software testing with Playwright
-
-Building:
-  - Full stack web applications with real-time features
-  - Discord bot integrations with custom UIs
-
-Exploring:
-  - Backend architecture and database design
-  - Open source contribution workflows
-
-Open To:
-  - Software Engineering Internships
-  - Full Stack Development Projects
-  - Open Source Collaboration
-```
-
-<br/>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:fzprioty25@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/farzana-sultana-82619b3b4"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/farzana-prioty"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<br/>
 
 ---
 
