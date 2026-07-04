@@ -15,20 +15,11 @@ I chose CSE over butex xdd (dumb ik). I love finding bugs and mistakes just as m
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzana-sultana-82619b3b4)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fzprioty25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/farzana-prioty)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/farzana_prioty)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Art3Mis99)
 
-## 📬 Connect With Me
 
-<div align="center">
-
-<a href="mailto:fzprioty25@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/farzana-sultana-82619b3b4"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/farzana-prioty"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/farzana_prioty"><img src="https://img.shields.io/badge/LeetCode-A78BFA?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/Art3Mis99"><img src="https://img.shields.io/badge/Codeforces-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
