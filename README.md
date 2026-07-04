@@ -59,18 +59,6 @@ Uses Supabase as the backend data store paired with the Discord bot API to fetch
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🥇 National Girls Programming Contest | Finalist |
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -79,13 +67,5 @@ Uses Supabase as the backend data store paired with the Discord bot API to fetch
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzana-prioty&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzana-prioty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=20,11,6&section=footer" width="100%"/>
 
 </div>
