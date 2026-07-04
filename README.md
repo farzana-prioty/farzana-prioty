@@ -58,16 +58,3 @@ Uses Supabase as the backend data store paired with the Discord bot API to fetch
 </details>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farzana-prioty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&ring_color=6D28D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farzana-prioty&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" width="49%"
-
-</div>
-
-<br/>
-
----
