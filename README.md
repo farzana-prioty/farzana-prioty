@@ -1,6 +1,6 @@
 # Prioty (spelled as pree-o-tee)
 
-I chose CSE over butex xdd (dumb ik). I love finding bugs and mistakes just as much I love building new things.
+First I build things, then i test them and laugh at my own bugs :)
 
 ---
 
